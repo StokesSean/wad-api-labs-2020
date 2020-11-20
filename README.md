@@ -4,3 +4,6 @@ The aim of the lab is to learn how the following:
 1:How to Set node up as a HTTP server.
 2:How to Use Node's built in http module to create a simple HTTP server.
 3:Node's packaging system.
+# Web App Dev 2: Web API Labs
+
+Practical labs for the WAD2 module, BSc. Applied/Software Systems Dev/Forensics  
